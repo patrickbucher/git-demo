@@ -2,11 +2,7 @@
 
 int add(int a, int b)
 {
-    int c;
-
-    c = a + b;
-
-    return c;
+    return a + b;
 }
 
 int main(int argc, char *argv[])
